@@ -4,6 +4,13 @@
 
 ---
 
+## 🎥 Demo
+
+Watch the demo video:
+
+https://github.com/user-attachments/assets/30c44ef5-2ab9-4a04-bc58-e31426621d95
+
+
 ## 🚀 Features
 
 - 📖 Add and manage multiple books or reading items  
@@ -19,12 +26,6 @@
 
 ---
 
-## 📱 Screenshots
-
-*(Add your screenshots here)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Language**: Java  
@@ -34,5 +35,5 @@
 
 ---
 
-## 📂 Project Structure
+
 
